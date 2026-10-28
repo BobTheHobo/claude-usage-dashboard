@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2+b7854493",
-  "release": 3,
-  "sha256": "928b72b1b25338edfd12308438affacfd203829eb929b1ac4300e2e4c63aed51",
-  "url": "https://raw.githubusercontent.com/BobTheHobo/claude-usage-dashboard/r3/install-usage-dashboard.js"
+  "version": "0.14.0+da2c0596",
+  "release": 17,
+  "sha256": "65c976a5d02caa316dda9c5ce65c07b3fa198044697036aece26281f68467131",
+  "url": "https://raw.githubusercontent.com/BobTheHobo/claude-usage-dashboard/r17/install-usage-dashboard.js"
 }
